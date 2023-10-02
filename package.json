@@ -30,7 +30,6 @@
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^17.7.2",
-    "@typescript-eslint/parser": "^6.7.3",
     "commitizen": "^4.3.0",
     "commitlint-config-cz": "^0.13.3",
     "commitlint-config-git-commit-emoji": "^1.0.0",
@@ -42,5 +41,8 @@
     "husky": "^8.0.3",
     "lint-staged": "^14.0.1",
     "prettier": "^3.0.3"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
   }
 }
